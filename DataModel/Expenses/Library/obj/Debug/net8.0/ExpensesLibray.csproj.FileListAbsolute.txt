@@ -1,0 +1,11 @@
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/bin/Debug/net8.0/ExpensesLibray.deps.json
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/bin/Debug/net8.0/ExpensesLibray.dll
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/bin/Debug/net8.0/ExpensesLibray.pdb
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/obj/Debug/net8.0/ExpensesLibray.GeneratedMSBuildEditorConfig.editorconfig
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/obj/Debug/net8.0/ExpensesLibray.AssemblyInfoInputs.cache
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/obj/Debug/net8.0/ExpensesLibray.AssemblyInfo.cs
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/obj/Debug/net8.0/ExpensesLibray.csproj.CoreCompileInputs.cache
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/obj/Debug/net8.0/ExpensesLibray.dll
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/obj/Debug/net8.0/refint/ExpensesLibray.dll
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/obj/Debug/net8.0/ExpensesLibray.pdb
+/home/ratana/Documents/RUPP/OOAD/DataModel/Expenses/Library/obj/Debug/net8.0/ref/ExpensesLibray.dll

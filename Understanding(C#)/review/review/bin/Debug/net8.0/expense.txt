@@ -1,0 +1,22 @@
+[
+  {
+    "No": 1,
+    "Description": "Studying",
+    "Amount": 200
+  },
+  {
+    "No": 2,
+    "Description": "Gym",
+    "Amount": 300
+  },
+  {
+    "No": 3,
+    "Description": "Sport",
+    "Amount": 400
+  },
+  {
+    "No": 4,
+    "Description": "Game",
+    "Amount": 500
+  }
+]

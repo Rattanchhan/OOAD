@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExpensesConsole/1.0.0": {
+        "dependencies": {
+          "ExpensesLibray": "1.0.0"
+        },
+        "runtime": {
+          "ExpensesConsole.dll": {}
+        }
+      },
+      "ExpensesLibray/1.0.0": {
+        "runtime": {
+          "ExpensesLibray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpensesConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExpensesLibray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "30172d90-e3c4-479d-9c71-5daf0bcf96f5",
+    "Code": "PRD001",
+    "Name": "Coca",
+    "Category": 2,
+    "Created": "2024-09-24T14:58:31.8323367+07:00",
+    "LastUpdated": null
+  },
+  {
+    "Id": "6e8326b4-68bd-49e8-9799-18ffec63c8e0",
+    "Code": "PRD002",
+    "Name": "Dream 125",
+    "Category": 32,
+    "Created": "2024-09-24T14:58:31.849215+07:00",
+    "LastUpdated": null
+  },
+  {
+    "Id": "5c2a489d-d8b8-4f3c-b959-0c01854f23a6",
+    "Code": "PRD003",
+    "Name": "TShirt-SEA game 2023",
+    "Category": 4,
+    "Created": "2024-09-24T14:58:31.8492171+07:00",
+    "LastUpdated": null
+  },
+  {
+    "Id": "eb39a049-f765-4d67-b3cc-f41d01f44c2a",
+    "Code": "Test-123",
+    "Name": "Test",
+    "Category": 4,
+    "Created": "2024-09-24T15:14:45.9710455+07:00",
+    "LastUpdated": null
+  }
+]

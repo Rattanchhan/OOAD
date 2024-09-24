@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpensesLibray", "Library\ExpensesLibray.csproj", "{BF741EB7-8F45-4B47-B418-AF3F036C617E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpensesConsole", "ExpensesConsole\ExpensesConsole.csproj", "{C49E3E7E-1860-4C2F-8924-7F6902B1A3F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF741EB7-8F45-4B47-B418-AF3F036C617E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF741EB7-8F45-4B47-B418-AF3F036C617E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF741EB7-8F45-4B47-B418-AF3F036C617E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF741EB7-8F45-4B47-B418-AF3F036C617E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C49E3E7E-1860-4C2F-8924-7F6902B1A3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49E3E7E-1860-4C2F-8924-7F6902B1A3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49E3E7E-1860-4C2F-8924-7F6902B1A3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49E3E7E-1860-4C2F-8924-7F6902B1A3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

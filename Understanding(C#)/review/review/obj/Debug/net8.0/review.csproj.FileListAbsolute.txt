@@ -1,0 +1,29 @@
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/review.exe
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/review.deps.json
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/review.runtimeconfig.json
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/review.dll
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/review.pdb
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.AssemblyInfoInputs.cache
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.AssemblyInfo.cs
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.csproj.CoreCompileInputs.cache
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.dll
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/refint/review.dll
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.pdb
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.genruntimeconfig.cache
+C:/Users/R2992000/Documents/Education/Royal  Phnom Penh University (Computer Science)/Year4/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/ref/review.dll
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/review
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/review.deps.json
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/review.runtimeconfig.json
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/review.dll
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/review.pdb
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.GeneratedMSBuildEditorConfig.editorconfig
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.AssemblyInfoInputs.cache
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.AssemblyInfo.cs
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.csproj.CoreCompileInputs.cache
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.dll
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/refint/review.dll
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.pdb
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/review.genruntimeconfig.cache
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/obj/Debug/net8.0/ref/review.dll
+/home/ratana/Documents/RUPP/OOAD/Understanding(C#)/review/review/bin/Debug/net8.0/expense.txt

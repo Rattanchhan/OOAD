@@ -1,0 +1,11 @@
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/bin/Debug/net8.0/ProductLibrary.deps.json
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/bin/Debug/net8.0/ProductLibrary.dll
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/bin/Debug/net8.0/ProductLibrary.pdb
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/obj/Debug/net8.0/ProductLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/obj/Debug/net8.0/ProductLibrary.AssemblyInfoInputs.cache
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/obj/Debug/net8.0/ProductLibrary.AssemblyInfo.cs
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/obj/Debug/net8.0/ProductLibrary.csproj.CoreCompileInputs.cache
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/obj/Debug/net8.0/ProductLibrary.dll
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/obj/Debug/net8.0/refint/ProductLibrary.dll
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/obj/Debug/net8.0/ProductLibrary.pdb
+/home/ratana/Documents/RUPP/OOAD/Product/ProductLibrary/obj/Debug/net8.0/ref/ProductLibrary.dll
